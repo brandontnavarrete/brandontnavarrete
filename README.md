@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Navarrete, or Nav!</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="brandontnavarrete" /></a> </p>
 
-- 🌱 I’m currently learning a Data Science curriculum at Codeup in San Antonio, Tx! I'm creating an arsenal machine learing techniques, sharpening my stats, and looking for way to solve issues that need a helping hand.
+- 🌱 I’m currently learning a Data Science curriculum at Codeup in San Antonio, Tx! I'm creating an arsenal of machine learing techniques, sharpening my stats, and looking for way to solve issues that need a helping hand.
 
 
 - 📫 How to reach me: Reach out at brandon.t.navarrete@gmail.com if you have any questions or would like to collaborate in any capacity.
