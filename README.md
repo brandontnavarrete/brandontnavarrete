@@ -8,7 +8,7 @@
 
 -👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> brandon.t.navarrete@gmail.com
 <p align="left">
 </p>
 
