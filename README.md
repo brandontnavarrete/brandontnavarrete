@@ -7,7 +7,9 @@ Find me on :
 <a href="https://public.tableau.com/app/profile/brandon.navarrete" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="brandon-navarrete" /></a>
 
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete)](https://github.com/brandontnavarrete/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/brandontnavarrete/github-readme-stats)
+
+
 
 
 - 🌱 I'm creating an arsenal of machine learing techniques, sharpening my stats, and looking for way to solve issues that need a helping hand.
