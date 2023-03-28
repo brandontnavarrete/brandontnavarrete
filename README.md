@@ -22,8 +22,8 @@ Find me on :
 
 
 ## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-
-<a href="https://github.com/brandontnavarrete/nasa-neow-python"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/brandontnavarrete/nasa-neow-python.png" width="460px"></a>
+<p align="left">
+  <a href="https://github.com/brandontnavarrete/nasa-neow-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=brandontnavarrete&repo=nasa-neow-python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nasa-neow-python"></a>
 
 
 
