@@ -18,7 +18,7 @@ Find me on :
 
 -👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandontnavarrete)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandontnavarrete)](https://github.com/brandontnavarrete/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3> brandon.t.navarrete@gmail.com
 <p align="left">
