@@ -18,10 +18,6 @@ Find me on :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandontnavarrete&theme=dracula" alt="brandontnavarrete" /></p>
 
 
-<h3 align="left">Connect with me:</h3> brandon.t.navarrete@gmail.com
-<p align="left">
-</p>
-
 
 
 <h3 align="left">Languages:</h3>
@@ -31,7 +27,9 @@ Find me on :
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white"></a>
   
-<h3 align="left">Tools:</h3>
+  
+  
+<h3 align="left">Libraries:</h3>
 
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white"></a>
@@ -42,18 +40,19 @@ Find me on :
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-193E4C.svg?logo=Selenium&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
  
-<h3 align="left">Databases:</h3>
+<h3 align="left">Database Language:</h3>
 
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
+  
+<h3 align="left">Tools:</h3>
 
-
-
-
-
-
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-315C66.svg?logo=RStudio&logoColor=white"></a>
+<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white"></a>
+<a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-OC%20Mac-555555?logo=apple&logoColor=white"></a>
 
 
 <h3 align="left">Connect with me:</h3> brandon.t.navarrete@gmail.com
-<p align="left">
-</p>
-
