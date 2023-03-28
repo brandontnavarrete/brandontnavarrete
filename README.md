@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Brandon Navarrete, or Nav!</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="brandontnavarrete" /></a> </p>
 
 Find me on :
 
@@ -8,7 +7,7 @@ Find me on :
 <a href="https://public.tableau.com/app/profile/brandon.navarrete" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="brandon-navarrete" /></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&timezone=Timezone['America/Honolulu']&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/brandontnavarrete)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide_progress=true)](https://github.com/brandontnavarrete/github-readme-stats)
 
 
 
