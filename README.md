@@ -3,7 +3,9 @@
 
 Find me on :
 
-<a href="https://public.tableau.com/app/profile/brandon.navarrete" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="brandon.navarretet" /></a>
+<a href="https://www.linkedin.com/in/brandon-navarrete/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="brandon-navarrete" /></a>
+
+<a href="https://public.tableau.com/app/profile/brandon.navarrete" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="brandon-navarrete" /></a>
 
 
 - 🌱 I'm creating an arsenal of machine learing techniques, sharpening my stats, and looking for way to solve issues that need a helping hand.
