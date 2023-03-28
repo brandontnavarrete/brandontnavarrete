@@ -7,10 +7,6 @@ Find me on :
 <a href="https://public.tableau.com/app/profile/brandon.navarrete" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="brandon-navarrete" /></a>
 
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide=Jupyter-Notebook&layout=compact&theme=dracula)](https://github.com/brandontnavarrete/github-readme-stats)
-
-
-
 
 - 🌱 I'm creating an arsenal of machine learing techniques, sharpening my stats, and looking for way to solve issues that need a helping hand.
 
@@ -19,7 +15,10 @@ Find me on :
 
 -👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandontnavarrete)](https://github.com/brandontnavarrete/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide=Jupyter-Notebook&layout=compact&theme=dracula)](https://github.com/brandontnavarrete/github-readme-stats)
+
+[![Nav's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandontnavarrete&show_icons=true&theme=dracula)](https://github.com/brandontnavarrete/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3> brandon.t.navarrete@gmail.com
 <p align="left">
