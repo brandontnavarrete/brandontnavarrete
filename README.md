@@ -11,11 +11,19 @@ Find me on :
 
 -👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
 
+
+
 [[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide=Jupyter-Notebook&layout=compact&theme=dracula)](https://github.com/brandontnavarrete/github-readme-stats)
 
 [![Nav's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandontnavarrete&show_icons=true&theme=dracula)](https://github.com/brandontnavarrete/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandontnavarrete&theme=dracula" alt="brandontnavarrete" /></p>
+
+
+
+
+## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brandon.t.navarrete&repo=github-readme-stats)](https://github.com/brandontnavarrete/nasa-neow-python#readme)
 
 
 
