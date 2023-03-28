@@ -7,7 +7,7 @@ Find me on :
 <a href="https://public.tableau.com/app/profile/brandon.navarrete" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="brandon-navarrete" /></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide_progress=true)](https://github.com/brandontnavarrete/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -17,6 +17,8 @@ Find me on :
 - 📫 How to reach me: Reach out at brandon.t.navarrete@gmail.com if you have any questions or would like to collaborate in any capacity.
 
 -👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandontnavarrete)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3> brandon.t.navarrete@gmail.com
 <p align="left">
