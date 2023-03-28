@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brandon Navarrete, or Nav!</h1>
+<h1 align="center"> Hi 👋, I'm Brandon Navarrete, or Nav!</h1>
 
 Find me on :
 
@@ -6,10 +6,9 @@ Find me on :
 
 <a href="https://public.tableau.com/app/profile/brandon.navarrete" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="brandon-navarrete" /></a>
 
+ - 📫 How to reach me: Reach out at brandon.t.navarrete@gmail.com if you have any questions or would like to collaborate in any capacity.
 
-- 📫 How to reach me: Reach out at brandon.t.navarrete@gmail.com if you have any questions or would like to collaborate in any capacity.
-
--👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
+ -👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
 
 
 
@@ -23,8 +22,8 @@ Find me on :
 
 
 ## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brandon.t.navarrete&repo=github-readme-stats)](https://github.com/brandontnavarrete/nasa-neow-python#readme)
 
+<a href="https://github.com/brandontnavarrete/nasa-neow-python"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/brandontnavarrete/nasa-neow-python.png" width="460px"></a>
 
 
 
