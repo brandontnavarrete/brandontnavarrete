@@ -10,6 +10,11 @@ Find me on :
 
  -👨‍💻 All of my projects here on my github, take a look around and i'm sure you'll find all of my ideas at work.
 
+## What I'm Actively Working On
+[Forecasting BattleBots Victors with Data Science](https://github.com/Battle-Bots-Project/battle-bots)
+Apr 2023 - Present
+
+In this data-driven project, we unlock BattleBots tournament predictions through machine learning and historical data analysis. By evaluating robot specs and match performance, we begin to craft an accurate model to anticipate competition outcomes. Come check out our work!
 
 
 [[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandontnavarrete&hide=Jupyter-Notebook&layout=compact&theme=dracula)](https://github.com/brandontnavarrete/github-readme-stats)
