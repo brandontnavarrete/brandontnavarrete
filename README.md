@@ -29,6 +29,10 @@ In this data-driven project, we unlock BattleBots tournament predictions through
 
 
 ## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+
+<p align="left">
+<a href="https://github.com/brandontnavarrete/SBA-Loan-Approval"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=brandontnavarrete&repo=SBA-Loan-Approval&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="SBA-Loan-Approval"></a>
+
 <p align="left">
 <a href="https://github.com/brandontnavarrete/nasa-neow-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=brandontnavarrete&repo=nasa-neow-python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nasa-neow-python"></a>
  
